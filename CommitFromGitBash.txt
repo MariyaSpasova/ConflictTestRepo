@@ -1,0 +1,1 @@
+This is an added file to the folder ConflictTestRepo2.
